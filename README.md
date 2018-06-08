@@ -1,5 +1,7 @@
 # Simple JokeBot for Slack
 
+This is a super simplified `slack bot` app with a lot of unnecessary dulications. It's for learning purpose only, do nut use in production`(You've been warned)`
+
 This is assuming that you can create a simple slack app else visit `https://api.slack.com` to setup your app
 
 The rest is straight forward from there
